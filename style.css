@@ -1,0 +1,22 @@
+.font_title {
+				text-indent: 70px;
+				background-color: #63B8FF;
+				font_title {
+				text-indent: 70px;
+				background-color: #63B8FF;
+				
+				font-weight: bold;
+				font-style: italic;
+				font-size: 22px;
+				color: #27408B;
+				
+				}
+			.font_osn {
+				font-size: 16px;
+				color: #00688B
+			}
+			#bobleft{
+	          float:left;
+	          display: block;
+	          width:50%;
+	        }
