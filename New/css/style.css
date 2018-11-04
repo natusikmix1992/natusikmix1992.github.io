@@ -1,0 +1,102 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+html, body{
+	height: 100%;
+}
+
+body{
+	font-family: 'Open Sans', sans-serif,Arial;
+	
+}
+
+.holovna{
+	
+	width: 100%;
+	background-image: linear-gradient(#4169E1, #FFFF00);
+	padding-bottom: 100px;
+}
+
+.rozdil-1{
+	padding-top: 70px;
+	margin-bottom: 40px;
+	font-weight: bold;
+	letter-spacing: 0.02px;
+	text-transform: uppercase;
+	font-size: 37px;
+	text-align: center;
+	color: white;
+	
+
+
+}
+.article{
+	padding-bottom: 0px;
+	border-radius: 4px;
+	background-color: white;
+	margin: 30px auto;
+	width: 360px;
+	height: 130px;
+	box-shadow: 0px 2px 5px grey;
+	
+}
+
+.article img{
+	
+	float: left;
+	width: 134px;
+	height: 130px;
+	padding-right: 15px;
+}
+h3{
+	font-family: 'PT Sans',Arial,sans-serif;
+	padding-top: 15px;
+	color: blue;
+	text-transform: uppercase;
+	font-size: 11px;
+	margin-top: 15px;
+	margin-left: 15px;
+}
+
+.article.new{
+	
+	margin: 10px 15px 20px 0px;
+	font-size: 10px;
+}
+
+
+.article a{
+	display: block;
+	color: green;
+	font-size: 11px;
+	font-weight: bold;
+	padding-bottom: 20px;
+
+}
+
+.article-last{
+
+	background-image: url("../foto/2.jpg");
+	background-size: cover;
+	width: 330px;
+	height: 152px;
+	box-shadow: 0px 2px 5px #556B2F;
+	margin: 20px auto;
+	padding-bottom: 0;
+	border-radius: 4px;
+	color: white;
+	font-size: 17px;
+	font-weight: bold;
+	padding-top: 20px;
+	padding-left: 20px;
+	
+}
+
+.article-last a{
+	display: block;
+	color: white;
+	font-size: 1px;
+	padding-top: 17px;
+}
