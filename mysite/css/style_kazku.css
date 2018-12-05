@@ -1,0 +1,23 @@
+body {
+	 display: flex; 
+	 color: black;
+     font-family: "lato-regular", Helvetica, Arial, sans-serif;
+     letter-spacing: 1px;
+     flex-direction:column;	 
+	 align-items:center;
+	 align-self:center;
+	 background: url('../img/78188.jpg') no-repeat bottom center;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+	 padding-bottom:40%;
+}
+   
+
+h1 { font-size: 2em; 
+     margin: .67em 0 }
+
+section{
+	padding:5%;
+    font-size: 16px;
+	Line-Height:1.5;}
